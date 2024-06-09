@@ -441,7 +441,7 @@
     "WINGULL": "wingle",
     "PELIPPER": "pelipper",
     "KIRLIA": "kirlia",
-    "SURSKIT": "ameama",
+    "SURSKIT": "arakdo",
     "MASQUERAIN": "ameaus",
     "SHROOMISH": "kinococo",
     "BRELOOM": "kinogassa",
@@ -736,7 +736,7 @@
     "FRILLISH": "pururiru",
     "JELLICENT": "burungeru",
     "ALOMOMOLA": "mamanbou",
-    "JOLTIK": "bakutchi",
+    "JOLTIK": "bachuru",
     "GALVANTULA": "deraboruto",
     "FERROTHORN": "nutrey",
     "KLINK": "gigiaru",
@@ -899,7 +899,7 @@
     "SANDYGAST": "sunabaa",
     "PALOSSAND": "shirodesuna",
     "PYUKUMUKU": "namakobushi",
-     "TYPE: NULL": "tipen",
+    "TYPE: NULL": "tipen",
     "SILVALLY": "shiruvadi",
     "MINIOR": "meteno",
     "KOMALA": "nemasyu",
@@ -1101,7 +1101,7 @@
 "SMEARGLE" : "queulorior",
 "PACHIRISU" : "pachirisu",
 "BRAIXEN" : "rutena"
-
+"SMEARCLE" : "doble"
 
    
   }
